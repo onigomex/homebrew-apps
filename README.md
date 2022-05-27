@@ -5,7 +5,7 @@ My apps managed using the homebrew system.
 
 ## Usage
 ```
-% brew install [--HEAD] onigomex/apps/<Formula>
+% brew install onigomex/apps/<Formula>
 ```
 
 
