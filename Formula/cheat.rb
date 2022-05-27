@@ -1,7 +1,7 @@
 class Cheat < Formula
   desc     "very simple cheat command"
   homepage "https://github.com/onigomex/cheat"
-  head     "https://github.com/onigomex/cheat.git"
+  head     "https://github.com/onigomex/cheat.git", branch: "main"
 
   depends_on "fzf"
 
